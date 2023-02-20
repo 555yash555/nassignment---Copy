@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "893738338998",
+    "project_id": "nasssignment",
+    "storage_bucket": "nasssignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893738338998:android:e5839081af6c23f7997417",
+        "android_client_info": {
+          "package_name": "com.example.nassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893738338998-nitsklhj6l440knugcf22rbsntqs6h6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB826f9uI00Y1cgXw__B9tNqqaGfMxXQMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893738338998-nitsklhj6l440knugcf22rbsntqs6h6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893738338998-98leeu19rd72tc6d891hi6q5tngr67e9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nassignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
